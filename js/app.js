@@ -105,7 +105,6 @@ onscroll = () => {
     display: flex;
   justify-content: center;
   align-items: center;`;
-
   } else {
     topBtn.style.cssText = `display:none;`;
   }
