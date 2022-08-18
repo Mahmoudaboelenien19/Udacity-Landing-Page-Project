@@ -4,10 +4,10 @@ This is my landing page for egyfwd scholarship
 ### Table of Contents
 
 #### Sections
-I added sections via javascript using OOP
+I added sections via javascript using OOP.
 
 #### Nav
-1. i added a nav link for every section by a function .
+1. I added a nav link for every section by a function .
 2. nav links when clicked goes to its section smoothly.
 
 #### Going Top Button
