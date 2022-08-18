@@ -20,12 +20,10 @@ class Sections {
         <p>Aliquam a convallis justo. Vivamus venenatis, erat eget pulvinar gravida, ipsum lacus aliquet velit, vel luctus diam ipsum a diam. Cras eu tincidunt arcu, vitae rhoncus purus. Vestibulum fermentum consectetur porttitor. Suspendisse imperdiet porttitor tortor, eget elementum tortor mollis non.</p>
       </div>
     </section>`;
-
     };
   }
 }
 // end of class
-
 
 // build sections from main class
 let section1 = new Sections("section1", "Section 1");
@@ -71,7 +69,6 @@ nav.addEventListener('click', (e) => {
     selected[0].scrollIntoView({ behavior: "smooth" });
   }
 });
-
 
 // add active class to link and section
 function activeSecAndLink() {
